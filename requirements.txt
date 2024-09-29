@@ -1,0 +1,18 @@
+# For Google Generative AI (Gemini)
+google-generativeai
+
+# For Streamlit
+streamlit
+
+# General utilities for environment variables
+python-dotenv
+
+# For Speech Recognition (if you decide to include that later)
+# speechrecognition==3.8.1
+
+# For Text to Speech (if used in the future)
+# gtts==2.2.4
+
+# For other dependencies (optional)
+
+-e .
